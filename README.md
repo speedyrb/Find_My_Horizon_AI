@@ -3,7 +3,7 @@ Building AI course project
 
 
 ## Summary
-A proposal for an AI tool to assist in finding a self-help technique based on the user's likes, dislikes, and personal wellness goals. This AI will be supplied with many different methodologies that have been proven to be helpful to some, with no bias towards one or another. The user will answer questions and this will be used to suggest techniques and to deteremine those which may be the most helpful.
+A proposal for an AI tool to assist in finding a self-help technique based on the user's likes, dislikes, and personal wellness goals. This AI will be supplied with many different methodologies that have been proven to be helpful to some, with no bias towards one or another. The user will answer questions and this will be used to suggest techniques and to deteremine those which may be the most helpful. This AI tool seeks to match a user with an established technique, not to serve as therapeutic or friendly companion to directly improve the user's emotional state.
 
 
 ## Background
@@ -12,35 +12,28 @@ From my own perspective, I have tried many different self-help techniques throug
 
 ## How is it used?
 The Find My Horizon AI Tool will havee three main modes of operation:
-* 1. "Let's Talk" - The AI tool will ask questions to establish the baseline emotional state of the user, as well as to ascertain the user's preferences and tolerances of different self-help approaches
-* 2. "Try This" - Based on the answers to the above questions, a self-help technique will be suggested, and the user will be guided through it, step-by-step
-* 3. "Check-in" - The AI toll will ask questions to ascertain the user's current emotional state, comparing it to the initial emotional state, to help rate the current self-help technique's effectiveness, and possibly suggest a new technique
+* "Let's Talk" - The AI tool will ask questions to establish the baseline emotional state of the user, as well as to ascertain the user's preferences and tolerances of different self-help approaches
+* "Try This" - Based on the answers to the above questions, a self-help technique will be suggested, and the user will be guided through it, step-by-step
+* "Check-in" - The AI tool will ask questions to ascertain the user's current emotional state, comparing it to their initial emotional state, to help rate the current self-help technique's effectiveness, and possibly suggest a new technique
 
 
 ## Data sources and AI methods
-The data will be sourced by creating a list of self-help techniques, listing their characteristics.
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+There will be three data sets:
+* Many of the most popular self-help techniques will be analyzed and broken down into their basic parts: how they function, what is required of the user, how they supposedly help, etc.
+* Different possible emotional states will be described. This will be a second data set.
+* Different user sentiments towards the characteristics of the self help techniques (the first data set) will be listed as a third data set.
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+These data sets will be populated via research.
 
 ## Challenges
+There will be significant disclaimers presented to the user when interacting with this AI tool. This tool is meant to be helpful, but it may be beyond the scope of the help needed for the user. The user will be reminded that this is for light assistance with their emotional state only, and that it is better to work with a professional.
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The main challenge will be in populating the data sets. The more accurate and complete the data sets, the better the matching of the self-help technique to the user will be.
+
 
 ## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+Assistance from self-help experts would make the population of the data sets more robust, leading to a more effective AI tool.
 
 
 ## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Using chatbots to assist with emotional states is not new, so that is being recognized here. However, this AI tool seeks to match a user with an established technique, not to serve as therapeutic or friendly companion to directly improve the user's emotional state.
