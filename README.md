@@ -3,7 +3,7 @@ Building AI course project
 
 
 ## Summary
-A proposal for an AI tool to assist in finding a self-help technique based on the user's likes, dislikes, and personal wellness goals. This AI will be supplied with many different methodologies that have been proven to be helpful to some, with no bias towards one or another. The user will answer questions and this will be used to suggest techniques and to deteremine those which may be the most helpful. This AI tool seeks to match a user with an established technique, not to serve as therapeutic or friendly companion to directly improve the user's emotional state.
+A proposal for an AI tool to assist in finding a self-help technique based on the user's likes, dislikes, and personal wellness goals. This AI will be supplied with many different methodologies that have been proven to be helpful to some, with no bias towards one or another. The user will answer questions and this will be used to suggest techniques and to deteremine those which may be the most helpful. This AI tool seeks to match a user with an established technique, not to serve as a therapeutic or friendly companion to directly improve the user's emotional state.
 
 
 ## Background
@@ -36,4 +36,4 @@ Assistance from self-help experts would make the population of the data sets mor
 
 
 ## Acknowledgments
-Using chatbots to assist with emotional states is not new, so that is being recognized here. However, this AI tool seeks to match a user with an established technique, not to serve as therapeutic or friendly companion to directly improve the user's emotional state.
+Using chatbots to assist with emotional states is not new, so that is being recognized here. However, this AI tool seeks to match a user with an established technique, not to serve as a therapeutic or friendly companion to directly improve the user's emotional state.
