@@ -5,6 +5,8 @@ Building AI course project
 ## Summary
 A proposal for an AI tool to assist in finding a self-help technique based on the user's likes, dislikes, and personal wellness goals. This AI will be supplied with many different methodologies that have been proven to be helpful to some, with no bias towards one or another. The user will answer questions and this will be used to suggest techniques and to deteremine those which may be the most helpful. This AI tool seeks to match a user with an established technique, not to serve as a therapeutic or friendly companion to directly improve the user's emotional state.
 
+DISCLAIMER: This tool is for informational purposes only and is not a substitute for professional medical or mental health advice.
+
 
 ## Background
 From my own perspective, I have tried many different self-help techniques through the years, and have found that some may be helpful for others, but they did not resonate with me. Similarly, the approaches that have helped me are not always helpful to others. This AI tool will solve this problem by suggesting an appropriate technique that matches the needs and preferences of the user.
